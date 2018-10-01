@@ -6,5 +6,9 @@
     {
         "firstName" : "Jane",
         "lastName" : "Marie"
+    },
+    {
+        "firstName" : "New",
+        "lastName" : "User"
     }
 ]
